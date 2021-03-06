@@ -15,7 +15,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Indice</title>
+<title>Index</title>
 <style>
 </style>
 
