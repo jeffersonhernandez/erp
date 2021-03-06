@@ -21,7 +21,9 @@
 
 </head>
 <body>
-
+    <form action="#" method="get">
+    <input type="button" value="Enviar">
+    </form>
 <header>
 </header>
 
